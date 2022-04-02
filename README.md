@@ -1,6 +1,7 @@
-# Useful ICS Links
+# Useful ICS Links [<img src="https://discord.com/api/guilds/644413890213576704/widget.png?style=shield">](https://discord.gg/2c7HEVZDUz)
 Place for tools the community has submitted that make our job a little bit easier. ICS = Industrial Control Systems.
 
+Please join our [ICS Discord Server!](https://discord.gg/2c7HEVZDUz) 
 ## Tools
 Hand tools, protocol converters and the like
 
@@ -57,7 +58,7 @@ Utilities to make your work life easier
 
 ## Vendor Sites
 Knowledgebases, forums, manuals
-
+* [Dragos](https://www.dragos.com/) `CyberSecurity` `OT` `White Papers`
 * [Emerson Exchange](https://emersonexchange365.com/) `DeltaV` `DCS` `Forum`
 * [Beckhoff InfoSys](https://infosys.beckhoff.com/) `TwinCAT` `Manual`
    * <img src="https://rss.com/blog/wp-content/uploads/2019/10/social_style_3_rss-512-1.png" width="12" height="12"> [Beckhoff TwinCAT](https://www.beckhoff.com/english/rss/beckhoff-twincat-rss-feed.xml) `TwinCAT`
