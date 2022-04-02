@@ -24,6 +24,7 @@ Utilities to make your work life easier
 * [Control Global](https://www.controlglobal.com/) `News` `Magazine` `Process Control`
 * [Control Automation](https://control.com) `Podcast` `Blog` `Articles` `Forum`
 * [AllTwinCAT](https://alltwincat.com/) `Blog` `TwinCAT` `YouTube`
+* [Hegamurl](https://www.youtube.com/channel/UC1P4ACs0hsr7AWcl-mWKQbQ/playlists) `Siemens` `TIA` `Playlist` `Youtube`
 * [PLCCoder.com](https://www.plccoder.com) `Blog` `TwinCAT`
 
 
