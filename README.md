@@ -65,4 +65,7 @@ Knowledgebases, forums, manuals
 * [Inductive Automation](https://forum.inductiveautomation.com/) `Ignition` `Forum`
 * <img src="https://rss.com/blog/wp-content/uploads/2019/10/social_style_3_rss-512-1.png" width="12" height="12"> [All Codesys RSS Feeds](http://www.codesys.com/rss/all-codesys-feeds.html?type=100) `Codesys`
 
+## Blogs
+* [Robert M Lee's Blog](https://www.robertmlee.org/a-collection-of-resources-for-getting-started-in-icsscada-cybersecurity/) `Blog` `ICS` `Educational`
+
 ## For Fun
