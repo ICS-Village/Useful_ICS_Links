@@ -35,6 +35,7 @@ Utilities to make your work life easier
 * [Oleg Mueller](https://www.youtube.com/channel/UCHvABpkd825kAtaDxnhE-tg/featured) `TwinCAT` `Youtube`
 * [PLC Simulator](https://app.plcsimulator.online/) Web based ladder logic simulator `Free` `Online`
 * [PLC FIddle](https://www.plcfiddle.com/) Web based ladder logic simulator `Free` `Online`
+* [Realpars](https://realpars.com/) `Paid` `Courses`
 
 ## Organizations
 * [ISA - International Society of Automation](https://www.isa.org) `Standards` `Education`
