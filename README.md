@@ -33,8 +33,10 @@ Utilities to make your work life easier
 * [Contact and Coil](https://www.contactandcoil.com/) `Tutorials` `TwinCAT` `RsLogix`
 * [Electrical Automation Hands On](https://www.youtube.com/channel/UCZqe2O5oBpas73BVdwHTiCA/featured) `Omron` `TwinCAT` `RsLogix` `Siemens`
 * [Oleg Mueller](https://www.youtube.com/channel/UCHvABpkd825kAtaDxnhE-tg/featured) `TwinCAT` `Youtube`
-* [PLC Simulator](https://app.plcsimulator.online/) Web based ladder logic simulator `Free` `Online`
-* [PLC FIddle](https://www.plcfiddle.com/) Web based ladder logic simulator `Free` `Online`
+* [PLC Simulator](https://app.plcsimulator.online/) `Free` `Online`
+   * Web based ladder logic simulator
+* [PLC FIddle](https://www.plcfiddle.com/) `Free` `Online`
+   * Web based ladder logic simulator
 * [Realpars](https://realpars.com/) `Paid` `Courses`
 
 ## Organizations
