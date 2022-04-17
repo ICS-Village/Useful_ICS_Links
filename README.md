@@ -27,6 +27,7 @@ Utilities to make your work life easier
 * [AllTwinCAT](https://alltwincat.com/) `Blog` `TwinCAT` `YouTube`
 * [Hegamurl](https://www.youtube.com/channel/UC1P4ACs0hsr7AWcl-mWKQbQ/playlists) `Siemens` `TIA` `Playlist` `Youtube`
 * [PLCCoder.com](https://www.plccoder.com) `Blog` `TwinCAT`
+* [Benhar-dev TwinCAT Resources List](https://github.com/benhar-dev/twincat-resources) `TwinCAT` `Github`
 
 
 ## Training Resources
