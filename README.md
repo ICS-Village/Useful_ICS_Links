@@ -31,6 +31,7 @@ Utilities to make your work life easier
 
 ## Training Resources
 * [Contact and Coil](https://www.contactandcoil.com/) `Tutorials` `TwinCAT` `RsLogix`
+* [Coding Bytes](https://codingbytes.teachable.com/p/codingbytes_twincat3) `Tutorials` `TwinCAT`
 * [Electrical Automation Hands On](https://www.youtube.com/channel/UCZqe2O5oBpas73BVdwHTiCA/featured) `Omron` `TwinCAT` `RsLogix` `Siemens`
 * [Oleg Mueller](https://www.youtube.com/channel/UCHvABpkd825kAtaDxnhE-tg/featured) `TwinCAT` `Youtube`
 * [PLC Simulator](https://app.plcsimulator.online/) `Free` `Online`
