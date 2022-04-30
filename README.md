@@ -40,6 +40,7 @@ Utilities to make your work life easier
 * [PLC FIddle](https://www.plcfiddle.com/) `Free` `Online`
    * Web based ladder logic simulator
 * [Realpars](https://realpars.com/) `Paid` `Courses`
+* [Gary Hartland](https://www.youtube.com/c/garyhartland) `Youtube` `Codesys` `OOP`
 
 ## Organizations
 * [ISA - International Society of Automation](https://www.isa.org) `Standards` `Education`
